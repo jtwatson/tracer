@@ -3,7 +3,7 @@ module github.com/jtwatson/tracer
 go 1.19
 
 require (
-	github.com/GoogleCloudPlatform/opentelemetry-operations-go/propagator v0.42.0
+	github.com/GoogleCloudPlatform/opentelemetry-operations-go/propagator v0.43.1
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.42.0
 )
 
